@@ -1,2 +1,2 @@
 # colours
-Colours Assignment
+Colour Assignment
